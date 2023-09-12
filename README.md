@@ -27,4 +27,4 @@
 
         Your site is now running at http://localhost:5173
 
-> lazy 1 hr project to try out react sse with openai :p
+[Quick start using our API on RapidAPI](https://rapidapi.com/marketingbusinessblueprint/api/chatgpt-simple-api-cheapest2/)
