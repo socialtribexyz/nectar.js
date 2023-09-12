@@ -28,3 +28,5 @@
         Your site is now running at http://localhost:5173
 
 [Quick start using our API on RapidAPI](https://rapidapi.com/marketingbusinessblueprint/api/chatgpt-simple-api-cheapest2/)
+
+Nectar.js aims to help you build AI based apps effortlessly 
