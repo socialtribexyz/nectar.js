@@ -34,7 +34,6 @@ set up a backend folder with
 
 1. **fetch-sse.mjs**
    
-    ```shell
     import { createParser } from "eventsource-parser";
 import { streamAsyncIterable } from "./stream-async-iterable.mjs";
 // Server-Sent Events (SSE) is a technology for sending data from a server to a web client in real time.
@@ -52,11 +51,10 @@ export async function fetchSSE(resource, options) {
     parser.feed(str);
   }
 }
-    ```
+
 
 2. **index.mjs**
 
-    ```shell
     import ExpiryMap from "expiry-map";
 import { v4 as uuidv4 } from "uuid";
 import Browser from "webextension-polyfill";
@@ -132,11 +130,11 @@ Browser.runtime.onConnect.addListener((port) => {
     }
   });
 });
-    ```
+
 
 3. **stream-async-iterable.mjs**
 
-    ```shell
+
     export async function* streamAsyncIterable(stream) {
     const reader = stream.getReader();
     try {
@@ -151,7 +149,8 @@ Browser.runtime.onConnect.addListener((port) => {
       reader.releaseLock();
     }
   }
-    ```
+  
+
 
 Nectar.js aims to help you build AI based apps effortlessly 
 try out some of our quick start templates above or below
