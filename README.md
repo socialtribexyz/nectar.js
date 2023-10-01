@@ -7,7 +7,7 @@
 1. **Clone the repo**
 
     ```shell
-    git clone https://github.com/its-ag/react-sse-openai-example
+    git clone https://github.com/socialtribexyz/nectar.js
     ```
 
 2. **Install dependencies**
