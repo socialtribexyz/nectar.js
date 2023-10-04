@@ -1,4 +1,4 @@
-# 🤖 React SSE OpenAI Example
+# 🤖 Nectar template for building dynamic AI based websites, apps, and social experiences   
 
 ![comp-demo](https://user-images.githubusercontent.com/102473837/234518800-50d67f9e-53f9-4a25-ba81-81d2ba974165.gif)
 
