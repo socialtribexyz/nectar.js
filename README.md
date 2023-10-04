@@ -27,7 +27,7 @@
 
         Your site is now running at http://localhost:5173
 
-[Quick start using our templates]([http://localhost:3000](https://resources.nectarhub.xyz)/streaming-real-time-results-with-react-openai-and-server-sent-events)
+[Quick start using our templates](https://resources.nectarhub.xyz/streaming-real-time-results-with-react-openai-and-server-sent-events)
 and set up your own Nectarjs Backend for seemless AI based website and app building read more here 
 
 Nectar.js aims to help you build AI based apps effortlessly 
